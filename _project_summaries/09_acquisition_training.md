@@ -2,7 +2,7 @@
 title: Acquisition Training 
 project_link: https://medium.com/@USDigitalService/congratulating-our-challenge-gov-winners-f6ec5deefbd6#.icjzextcy
 link_text: Learn More
-image_url: /img/work/acquisition-training.jpg
+image_url: /usds-website-dev/img/work/acquisition-training.jpg
 image_description: Photo of the first class of Acquisition Training specialists
 ---
 
