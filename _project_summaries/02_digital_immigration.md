@@ -2,7 +2,7 @@
 title: Digital Immigration
 project_link: https://my.uscis.gov/exploremyoptions
 link_text: Visit MyUSCIS
-image_url: /img/work/uscis-myuscis.jpg
+image_url: /usds-website-dev/img/work/uscis-myuscis.jpg
 image_description: Screenshot of myUSCIS site
 ---
 

@@ -2,7 +2,7 @@
 title: Quality Payment Program
 project_link: https://qpp.cms.gov
 link_text: Learn More 
-image_url: /img/work/cms-quality-payment-program.png
+image_url: /usds-website-dev/img/work/cms-quality-payment-program.png
 image_description: The CMS Logo
 ---
 

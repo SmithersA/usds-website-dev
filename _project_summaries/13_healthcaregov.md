@@ -2,7 +2,7 @@
 title: HealthCare.gov
 project_link: https://www.healthcare.gov
 link_text: Visit HealthCare.gov
-image_url: /img/work/hhs-healthcare.gov.png
+image_url: /usds-website-dev/img/work/hhs-healthcare.gov.png
 image_description: The healthcare.gov logo
 ---
 

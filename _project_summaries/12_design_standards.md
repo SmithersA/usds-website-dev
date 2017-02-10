@@ -2,7 +2,7 @@
 title: U.S. Web Design Standards
 project_link: https://standards.usa.gov
 link_text: See the U.S. Web Design Standards
-image_url: /img/work/us-web-design-standards.png
+image_url: /usds-website-dev/img/work/us-web-design-standards.png
 image_description: A partial screenshot of the US web design standards site
 ---
 

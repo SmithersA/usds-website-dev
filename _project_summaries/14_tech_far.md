@@ -2,7 +2,7 @@
 title: TechFAR Hub
 project_link: https://techfarhub.cio.gov/
 link_text: Visit the TechFAR Hub
-image_url: /img/work/techfar-hub.jpg
+image_url: /usds-website-dev/img/work/techfar-hub.jpg
 image_description: A partial screenshot of the TechFAR Hub 
 ---
 
