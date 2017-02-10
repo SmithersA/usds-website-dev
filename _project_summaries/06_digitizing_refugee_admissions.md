@@ -2,7 +2,7 @@
 title: Digitizing Refugee Admissions
 project_link: 
 link_text: 
-image_url: /img/work/dhs-digitizing-refugee-adminissions.jpg
+image_url: /usds-website-dev/img/work/dhs-digitizing-refugee-adminissions.jpg
 image_description: A photo of the previous paper based process&colon; an application and a physical stamp. 
 ---
 

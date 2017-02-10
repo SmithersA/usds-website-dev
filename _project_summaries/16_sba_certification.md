@@ -2,7 +2,7 @@
 title: SBA Certification Modernization 
 project_link: https://certify.sba.gov
 link_text: Visit certify.sba.gov
-image_url: /img/work/sba-certify.jpg
+image_url: /usds-website-dev/img/work/sba-certify.jpg
 image_description: A screenshot of certify.sba.gov
 ---
 

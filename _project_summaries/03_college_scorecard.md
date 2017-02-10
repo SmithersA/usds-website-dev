@@ -2,7 +2,7 @@
 title: College Scorecard
 project_link: https://collegescorecard.ed.gov/
 link_text: Visit College Scorecard
-image_url: /img/work/ed-college-scorecard.png
+image_url: /usds-website-dev/img/work/ed-college-scorecard.png
 image_description: Screenshot of the college scorecard
 ---
 

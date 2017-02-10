@@ -2,7 +2,7 @@
 title: Caseflow Certification
 project_link: https://medium.com/@USDigitalService/new-tool-launches-to-improve-the-benefits-claim-appeals-process-at-the-va-59c2557a4a1c#.7cp6wmd0t
 link_text: Learn More
-image_url: /img/work/vets-caseflow.png
+image_url: /usds-website-dev/img/work/vets-caseflow.png
 image_description: Screenshot of the Caseflow system at Veterans Affairs
 ---
 
