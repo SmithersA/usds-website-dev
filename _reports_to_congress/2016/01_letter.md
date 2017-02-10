@@ -6,7 +6,7 @@ permalink: /report-to-congress/2016/
 front: true
 ---
 <div class="report-title">
-  <p><img src="/img/report-to-congress/capitol.jpg" alt="Illustrated U.S. Capitol"></p>
+  <p><img src="/usds-website-dev/img/report-to-congress/capitol.jpg" alt="Illustrated U.S. Capitol"></p>
   <p class="usds">The U.S. Digital Service</p>
   <h2>Report to Congress</h2>
   <p>December 2016</p>
@@ -34,7 +34,7 @@ USDS has developed procedures and criteria for prioritizing projects, which incl
 
 Along with its investment in the ITOR Fund, Congress asked USDS to provide a regular update on progress in each of its programs. This report details that progress.
 
-<img src="/img/report-to-congress/2016/sig.png" width="337" height="112" />
+<img src="/usds-website-dev/img/report-to-congress/2016/sig.png" width="337" height="112" />
 
 Mikey Dickerson  
 Administrator, U.S. Digital Service
