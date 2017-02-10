@@ -1,7 +1,7 @@
 ---
 title: High Priority Projects
 report: 2016
-permalink: /report-to-congress/2016/projects/
+permalink: /usds-website-dev/report-to-congress/2016/projects/
 ---
 ## High Priority Projects
 

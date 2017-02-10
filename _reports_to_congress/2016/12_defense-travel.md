@@ -3,7 +3,7 @@ title: Modernizing the Department of Defense Travel System
 short: Defense Travel
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/defense-travel/
+permalink: /usds-website-dev/report-to-congress/2016/defense-travel/
 ---
 ## Modernizing the Department of Defense Travel System
 

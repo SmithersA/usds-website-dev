@@ -2,7 +2,7 @@
 title: Transforming Federal IT Procurement
 short: Procurement
 report: 2016
-permalink: /report-to-congress/2016/procurement/
+permalink: /usds-website-dev/report-to-congress/2016/procurement/
 ---
 ## Transforming Federal IT Procurement
 

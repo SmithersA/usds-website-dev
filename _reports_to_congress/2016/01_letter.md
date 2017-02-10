@@ -2,7 +2,7 @@
 title: 2016 Report to Congress
 short: Letter from the Administrator
 report: 2016
-permalink: /report-to-congress/2016/
+permalink: /usds-website-dev/report-to-congress/2016/
 front: true
 ---
 <div class="report-title">

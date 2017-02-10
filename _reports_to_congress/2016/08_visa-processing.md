@@ -3,7 +3,7 @@ title: Improving the Visa Processing System at Department of State
 short: Visa Processing
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/visa-processing/
+permalink: /usds-website-dev/report-to-congress/2016/visa-processing/
 ---
 ## Improving the Visa Processing System at Department of State
 
