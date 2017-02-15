@@ -3,7 +3,7 @@ title: Reducing Inefficiency in the Refugee Admission Process
 short: Refugee Admissions
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/refugee-admissions/
+permalink: /usds-website-dev/report-to-congress/2016/refugee-admissions/
 ---
 ## Reducing Inefficiency in the Refugee Admission Process
 

@@ -3,7 +3,7 @@ title: Identifying Security Vulnerabilities in Department of Defense Websites â€
 short: Hack the Pentagon
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/hack-the-pentagon/
+permalink: /usds-website-dev/report-to-congress/2016/hack-the-pentagon/
 ---
 ## Identifying Security Vulnerabilities in Department of Defense Websites â€“ Hack the Pentagon
 

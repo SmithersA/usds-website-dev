@@ -3,7 +3,7 @@ title: Stabilizing and Improving HealthCare.gov
 short: HealthCare.gov
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/healthcare-dot-gov/
+permalink: /usds-website-dev/report-to-congress/2016/healthcare-dot-gov/
 ---
 ## Stabilizing and Improving HealthCare.gov
 

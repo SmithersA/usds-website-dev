@@ -2,7 +2,7 @@
 title: Hiring Top Technical Talent from the Private Sector
 short: Hiring Top Talent
 report: 2016
-permalink: /report-to-congress/2016/hiring-talent/
+permalink: /usds-website-dev/report-to-congress/2016/hiring-talent/
 ---
 ## Hiring Top Technical Talent from the Private Sector
 

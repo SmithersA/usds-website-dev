@@ -3,7 +3,7 @@ title: Providing Secure Access to IRS Taxpayer Information
 short: IRS Secure Access
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/irs-secure-access/
+permalink: /usds-website-dev/report-to-congress/2016/irs-secure-access/
 ---
 ## Providing Secure Access to IRS Taxpayer Information
 

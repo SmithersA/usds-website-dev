@@ -3,7 +3,7 @@ title: Helping CMS Implement Congressionally Mandated Medicare Payment Changes
 short: Medicare Payments
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/medicare-payments/
+permalink: /usds-website-dev/report-to-congress/2016/medicare-payments/
 ---
 ## Helping CMS Implement Congressionally Mandated Medicare Payment Changes
 

@@ -3,7 +3,7 @@ title: Helping Students Make More Informed College Choices at Department of Educ
 short: College Scorecard
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/college-scorecard/
+permalink: /usds-website-dev/report-to-congress/2016/college-scorecard/
 ---
 ## Helping Students Make More Informed College Choices at Department of Education
 

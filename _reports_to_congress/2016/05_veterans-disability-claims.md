@@ -3,7 +3,7 @@ title: Streamlining VA Disability Claim Processing
 short: VA Disability Claims
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/veterans-disability-claims/
+permalink: /usds-website-dev/report-to-congress/2016/veterans-disability-claims/
 ---
 ## Streamlining VA Disability Claim Processing
 

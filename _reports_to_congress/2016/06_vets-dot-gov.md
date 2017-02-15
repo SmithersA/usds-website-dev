@@ -3,7 +3,7 @@ title: Simplifying Veteran-facing Services with Vets.gov
 short: Vets.gov
 sub: true
 report: 2016
-permalink: /report-to-congress/2016/vets-dot-gov/
+permalink: /usds-website-dev/report-to-congress/2016/vets-dot-gov/
 ---
 ## Simplifying Veteran-facing Services with Vets.gov
 

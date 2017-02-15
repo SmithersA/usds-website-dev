@@ -2,7 +2,7 @@
 title: Supporting the Development of Federal Shared Services
 short: Shared Services
 report: 2016
-permalink: /report-to-congress/2016/shared-services/
+permalink: /usds-website-dev/report-to-congress/2016/shared-services/
 ---
 ## Supporting the Development of Federal Shared Services
 
