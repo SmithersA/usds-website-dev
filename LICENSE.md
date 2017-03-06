@@ -1,7 +1,7 @@
 This project includes a mix of the following:
 
-* Open source works that are not in the public domain
-* Open source work by the U.S. government that is in the public domain
+* Open source works that are not in the public domain.
+* Open source work by the U.S. government that is in the public domain.
 
 ## Parts of this project that are not in the public domain
 
